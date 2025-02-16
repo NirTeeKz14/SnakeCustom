@@ -1,0 +1,11 @@
+# Fichiers Python compilés
+*.pyc
+*.pyo
+__pycache__/
+
+# Fichiers log
+*.log
+
+# Dossiers
+.vscode/
+.idea/
